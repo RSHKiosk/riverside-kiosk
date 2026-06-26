@@ -1,0 +1,2 @@
+# riverside-kiosk
+Registration database
